@@ -9,3 +9,4 @@ print('world')
 print('hello\npython')
 # /t 制表符
 print('\tabcd')
+print("testing github in china")
